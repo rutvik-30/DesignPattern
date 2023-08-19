@@ -1,4 +1,4 @@
-package com.example.pattern.creational;
+package com.example.pattern.factory;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 public class Jaguar extends Car {
 
 	
-	private static final String name="BMW";
+	private static final String name="JAGUAR";
 	private String carColor;
 	private String carModel;
 	

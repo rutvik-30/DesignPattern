@@ -1,8 +1,8 @@
-package com.example.pattern.creational;
+package com.example.pattern.factory;
 import java.util.List;
 import java.util.ArrayList;
 
-class Bmw extends Car {
+ public class Bmw extends Car {
 
 	private static final String name="BMW";
 	private String carColor;

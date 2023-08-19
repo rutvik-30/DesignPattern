@@ -1,4 +1,4 @@
-package com.example.pattern.creational;
+package com.example.pattern.factory;
 
 public abstract class Car {
 	

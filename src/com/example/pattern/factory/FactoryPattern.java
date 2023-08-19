@@ -1,4 +1,4 @@
-package com.example.pattern.creational;
+package com.example.pattern.factory;
 
 // This design pattern is used when we have a super class and muultiple subclass inheriting it.
 public class FactoryPattern {
